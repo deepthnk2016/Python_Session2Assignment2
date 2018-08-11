@@ -1,6 +1,6 @@
 #-----------------------------------------------------------------
 # Python - Session 2 Assignment 2
-# Descr - First Sample program in python
+# Descr - Print pattern of stars
 #-----------------------------------------------------------------
 
 #Enter the max number of stars to be printed
